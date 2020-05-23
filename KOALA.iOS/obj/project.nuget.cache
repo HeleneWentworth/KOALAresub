@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c9J7MNq9Nbpavz/ADHci5D7Alj4F9eQ/E1EklxSmIhreCN4hBz+k7Ct98JD2qOgfkhZA47n3WF9W259QkMR8WQ==",
+  "success": true,
+  "projectFilePath": "/Users/helenewentworth/Projects/KOALA/KOALA.iOS/KOALA.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/helenewentworth/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/xamarin.forms/4.4.0.991265/xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

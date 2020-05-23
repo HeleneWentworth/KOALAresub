@@ -113,6 +113,10 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\koala1.imageset\koala1.png" />
+    <ImageAsset Include="Assets.xcassets\koala1.imageset\koala1-1.png" />
+    <ImageAsset Include="Assets.xcassets\koala1.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\koala1.imageset\koala.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -132,5 +136,10 @@
       <Project>{0803D1E1-3380-4B04-86A1-D8FBAC2AC9E7}</Project>
       <Name>KOALA</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets.xcassets\Imagekgtiwegt]e-2.imageset\" />
+    <Folder Include="Assets.xcassets\koala1.imageset\" />
+    <Folder Include="Assets.xcassets\koala1.imageset\" />
   </ItemGroup>
 </Project>
