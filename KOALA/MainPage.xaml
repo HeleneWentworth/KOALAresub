@@ -21,8 +21,6 @@
 
 
      
-            
-
         </StackLayout>
         <Image x:Name="koalaImage" VerticalOptions="CenterAndExpand" Source="koala1"/>
         <StackLayout>

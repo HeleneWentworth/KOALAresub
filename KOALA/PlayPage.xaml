@@ -7,7 +7,7 @@
 
         <StackLayout VerticalOptions="CenterAndExpand">
            
-
+            <StackLayout>
             <Label Text="Koala"
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"
@@ -15,7 +15,7 @@
                    FontAttributes="Bold"
                    FontSize="30"
                    />
-
+                  </StackLayout>
              <Label Text="Play with me "
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"
@@ -24,7 +24,7 @@
                    FontSize="22"/>
                 
 
-     
+   
             
 
        
