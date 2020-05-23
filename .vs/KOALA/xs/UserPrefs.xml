@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{80770735-EBCF-4F1B-97E7-AFA3BEF887E2}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="KOALA/MainPage.xaml">
     <Files>
-      <File FileName="KOALA/MainPage.xaml" Line="60" Column="64" />
-      <File FileName="KOALA/MainPage.xaml.cs" Line="30" Column="53" />
-      <File FileName="KOALA.iOS/Main.cs" />
+      <File FileName="KOALA/MainPage.xaml" Line="27" Column="4" />
+      <File FileName="KOALA/MainPage.xaml.cs" Line="34" Column="53" />
+      <File FileName="KOALA.iOS/Main.cs" Line="1" Column="1" />
       <File FileName="KOALA.iOS/Info.plist" />
       <File FileName="KOALA.iOS/AppDelegate.cs" />
       <File FileName="KOALA.iOS/Entitlements.plist" />
-      <File FileName="KOALA.iOS/Properties/AssemblyInfo.cs" />
-      <File FileName="KOALA/PlayPage.xaml" Line="24" Column="32" />
-      <File FileName="KOALA/PlayPage.xaml.cs" />
+      <File FileName="KOALA.iOS/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="KOALA/PlayPage.xaml" Line="18" Column="33" />
+      <File FileName="KOALA/PlayPage.xaml.cs" Line="1" Column="1" />
       <File FileName="KOALA/AssemblyInfo.cs" />
-      <File FileName="KOALA/FoodPage.xaml" Line="1" Column="1" />
-      <File FileName="KOALA/FoodPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="KOALA/TodoPage.xaml" Line="1" Column="1" />
-      <File FileName="KOALA/TodoPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="KOALA/FoodPage.xaml" Line="15" Column="20" />
+      <File FileName="KOALA/FoodPage.xaml.cs" Line="13" Column="10" />
+      <File FileName="KOALA/TodoPage.xaml" Line="28" Column="26" />
+      <File FileName="KOALA/TodoPage.xaml.cs" Line="13" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
