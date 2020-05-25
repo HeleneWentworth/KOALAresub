@@ -3,6 +3,8 @@ Plugin.InputKit
 SkiaSharp
 SkiaSharp.Views.Android
 SkiaSharp.Views.Forms
+SQLite.Net.Platform.XamarinAndroid
+SQLitePCLRaw.lib.e_sqlite3.android
 TouchTracking.Droid
 TouchTracking.Forms.Droid
 Xamarin.Android.Arch.Core.Common

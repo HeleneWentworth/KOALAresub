@@ -97,6 +97,10 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "SQLite.Net-PCL": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "SkiaSharp": {
               "target": "Package",
               "version": "[1.68.3, )"
@@ -128,6 +132,10 @@
             "Xamarin.Forms.InputKit": {
               "target": "Package",
               "version": "[3.3.0, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [

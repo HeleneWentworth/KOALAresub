@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using KOALA.Views;
 using Xamarin.Forms;
 
 
@@ -31,7 +32,7 @@ namespace KOALA
 
         async void TodoButtonClicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new TodoPage());
+            await Navigation.PushModalAsync(new TodoItemPage());
         }
 
     }

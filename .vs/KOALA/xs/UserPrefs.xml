@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{E8181672-EAD6-4A9D-A694-FD534E0F5AFD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="KOALA/Helpers/ViewExtensions.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="KOALA/FoodPage.xaml.cs" Line="9" Column="6" IsPinned="True" />
+      <File FileName="KOALA/FoodPage.xaml.cs" Line="17" Column="10" IsPinned="True" />
       <File FileName="KOALA/MainPage.xaml" />
       <File FileName="KOALA/MainPage.xaml.cs" />
       <File FileName="KOALA.iOS/Properties/AssemblyInfo.cs" />
@@ -9,7 +9,7 @@
       <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" />
       <File FileName="KOALA/AspectRatioLayout.cs" />
       <File FileName="KOALA/ISpinPaintDependencyService.cs" />
-      <File FileName="KOALA/PlayPage.xaml" Line="10" Column="1" />
+      <File FileName="KOALA/PlayPage.xaml" />
       <File FileName="KOALA/PlayPage.xaml.cs" />
       <File FileName="KOALA/TouchActionEventArgs.cs" />
       <File FileName="KOALA/TouchActionType.cs" />
@@ -17,18 +17,19 @@
       <File FileName="KOALA/KOALA.csproj" />
       <File FileName="KOALA/TouchActionEventHandler.cs" />
       <File FileName="KOALA/AssemblyInfo.cs" />
-      <File FileName="KOALA/FoodPage.xaml" Line="86" Column="3" />
-      <File FileName="KOALA/TodoPage.xaml" />
+      <File FileName="KOALA/FoodPage.xaml" />
       <File FileName="KOALA/TouchPoint.cs" />
-      <File FileName="KOALA/Components/DragAndDropSample3MovingView.cs" Line="19" Column="2" />
-      <File FileName="KOALA/Components/DragAndDropSample3ReceivingView.cs" Line="25" Column="12" />
-      <File FileName="KOALA/Extensions/DragAndDropExtensions.cs" Line="24" Column="4" />
-      <File FileName="KOALA/Interfaces/IDragAndDropContainer.cs" Line="1" Column="16" />
-      <File FileName="KOALA/Interfaces/IDragAndDropHoverableView.cs" Line="9" Column="2" />
-      <File FileName="KOALA/Interfaces/IDragAndDropMovingView.cs" Line="2" Column="16" />
-      <File FileName="KOALA/Interfaces/IDragAndDropReceivingView.cs" Line="1" Column="16" />
-      <File FileName="KOALA/Helpers/NumericExtensions.cs" Line="14" Column="2" />
-      <File FileName="KOALA/Helpers/ViewExtensions.cs" Line="4" Column="22" />
+      <File FileName="KOALA/Components/DragAndDropSample3MovingView.cs" />
+      <File FileName="KOALA/Components/DragAndDropSample3ReceivingView.cs" />
+      <File FileName="KOALA/Extensions/DragAndDropExtensions.cs" />
+      <File FileName="KOALA/Interfaces/IDragAndDropContainer.cs" />
+      <File FileName="KOALA/Interfaces/IDragAndDropHoverableView.cs" />
+      <File FileName="KOALA/Interfaces/IDragAndDropMovingView.cs" />
+      <File FileName="KOALA/Interfaces/IDragAndDropReceivingView.cs" />
+      <File FileName="KOALA/Helpers/NumericExtensions.cs" />
+      <File FileName="KOALA/Helpers/ViewExtensions.cs" />
+      <File FileName="KOALA/Data/TodoItemDatabase.cs" Line="54" Column="17" />
+      <File FileName="KOALA/Views/TodoItemPage.xaml.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -37,11 +38,14 @@
             <Node name="KOALA" expanded="True">
               <Node name="Dependencies" expanded="True" />
               <Node name="Components" expanded="True" />
-              <Node name="Extensions" expanded="True" />
-              <Node name="Helpers" expanded="True">
-                <Node name="ViewExtensions.cs" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="TodoItemDatabase.cs" selected="True" />
               </Node>
+              <Node name="Extensions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
               <Node name="Interfaces" expanded="True" />
+              <Node name="FoodPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
               <Node name="PlayPage.xaml" expanded="True" />
             </Node>
             <Node name="KOALA.Android" expanded="True" />

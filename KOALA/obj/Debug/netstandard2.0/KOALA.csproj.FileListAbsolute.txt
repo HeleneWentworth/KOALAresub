@@ -3,7 +3,11 @@
 /Users/helenewentworth/Projects/KOALA/KOALA/bin/Debug/netstandard2.0/ref/KOALA.dll
 /Users/helenewentworth/Projects/KOALA/KOALA/bin/Debug/netstandard2.0/KOALA.pdb
 /Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/FoodPage.xaml.g.cs
 /Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/PlayPage.xaml.g.cs
+/Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/Views/TodoItemPage.xaml.g.cs
+/Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/Views/TodoListPage.xaml.g.cs
 /Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/KOALA.AssemblyInfoInputs.cache
 /Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/KOALA.AssemblyInfo.cs
 /Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/KOALA.csproj.CoreCompileInputs.cache
@@ -12,6 +16,3 @@
 /Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/ref/KOALA.dll
 /Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/KOALA.pdb
 /Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/KOALA.csprojAssemblyReference.cache
-/Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/PlayPage.xaml.g.cs
-/Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/FoodPage.xaml.g.cs
-/Users/helenewentworth/Projects/KOALA/KOALA/obj/Debug/netstandard2.0/TodoPage.xaml.g.cs

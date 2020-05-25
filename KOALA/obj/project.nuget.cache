@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uieQaQPaaEwXSZEG/YZav4Fi2plFUZofiHtvtyJvvXE41KDaRsGq8uCr9rggoOQH1Epr1pDtzN0pz7jg1tPlRg==",
+  "dgSpecHash": "EcczAjfXHkd5mF8VhoNEYCeOnVw6Yw+B4s4eeujM/qqMVYiw6E8fkkY9MGmWxwzinQR6N3IogsDFwTspLYkCCQ==",
   "success": true,
   "projectFilePath": "/Users/helenewentworth/Projects/KOALA/KOALA/KOALA.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,13 @@
     "/Users/helenewentworth/.nuget/packages/skiasharp/1.68.3/skiasharp.1.68.3.nupkg.sha512",
     "/Users/helenewentworth/.nuget/packages/skiasharp.views/1.68.3/skiasharp.views.1.68.3.nupkg.sha512",
     "/Users/helenewentworth/.nuget/packages/skiasharp.views.forms/1.68.1/skiasharp.views.forms.1.68.1.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/sqlite.net-pcl/3.1.1/sqlite.net-pcl.3.1.1.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/sqlite.net.core-pcl/3.1.1/sqlite.net.core-pcl.3.1.1.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/sqlitepclraw.core/2.0.3/sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.3/sqlitepclraw.lib.e_sqlite3.2.0.3.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.3/sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
     "/Users/helenewentworth/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
     "/Users/helenewentworth/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/helenewentworth/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
@@ -26,6 +33,26 @@
       "warningLevel": 1,
       "message": "Package 'SkiaSharp.Views 1.68.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "SkiaSharp.Views",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SQLite.Net-PCL 3.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SQLite.Net-PCL",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SQLite.Net.Core-PCL 3.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SQLite.Net.Core-PCL",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
       ]
