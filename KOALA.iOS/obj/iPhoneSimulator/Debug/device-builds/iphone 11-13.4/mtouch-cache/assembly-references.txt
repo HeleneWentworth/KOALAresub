@@ -24,3 +24,6 @@
 /Users/helenewentworth/.nuget/packages/xamarin.forms/4.4.0.991265/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
 /Users/helenewentworth/Projects/KOALA/KOALA/bin/Debug/netstandard2.0/KOALA.dll
 /Users/helenewentworth/.nuget/packages/xamarin.forms/4.4.0.991265/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
+/Users/helenewentworth/.nuget/packages/skiasharp/1.68.3/lib/xamarinios1.0/SkiaSharp.dll
+/Users/helenewentworth/.nuget/packages/skiasharp.views.forms/1.68.1/lib/Xamarin.iOS/SkiaSharp.Views.Forms.dll
+/Users/helenewentworth/.nuget/packages/skiasharp.views/1.68.3/lib/xamarinios1.0/SkiaSharp.Views.iOS.dll

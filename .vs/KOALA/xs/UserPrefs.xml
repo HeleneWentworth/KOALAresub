@@ -1,38 +1,50 @@
-﻿<Properties StartupConfiguration="{80770735-EBCF-4F1B-97E7-AFA3BEF887E2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="KOALA/MainPage.xaml">
+﻿<Properties StartupConfiguration="{E8181672-EAD6-4A9D-A694-FD534E0F5AFD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KOALA/Helpers/ViewExtensions.cs">
     <Files>
-      <File FileName="KOALA/MainPage.xaml" Line="27" Column="4" />
-      <File FileName="KOALA/MainPage.xaml.cs" Line="34" Column="53" />
-      <File FileName="KOALA.iOS/Main.cs" Line="1" Column="1" />
-      <File FileName="KOALA.iOS/Info.plist" />
-      <File FileName="KOALA.iOS/AppDelegate.cs" />
-      <File FileName="KOALA.iOS/Entitlements.plist" />
-      <File FileName="KOALA.iOS/Properties/AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="KOALA/PlayPage.xaml" Line="18" Column="33" />
-      <File FileName="KOALA/PlayPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="KOALA/FoodPage.xaml.cs" Line="9" Column="6" IsPinned="True" />
+      <File FileName="KOALA/MainPage.xaml" />
+      <File FileName="KOALA/MainPage.xaml.cs" />
+      <File FileName="KOALA.iOS/Properties/AssemblyInfo.cs" />
+      <File FileName="KOALA/App.xaml.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" />
+      <File FileName="KOALA/AspectRatioLayout.cs" />
+      <File FileName="KOALA/ISpinPaintDependencyService.cs" />
+      <File FileName="KOALA/PlayPage.xaml" Line="10" Column="1" />
+      <File FileName="KOALA/PlayPage.xaml.cs" />
+      <File FileName="KOALA/TouchActionEventArgs.cs" />
+      <File FileName="KOALA/TouchActionType.cs" />
+      <File FileName="KOALA/TouchEffect.cs" />
+      <File FileName="KOALA/KOALA.csproj" />
+      <File FileName="KOALA/TouchActionEventHandler.cs" />
       <File FileName="KOALA/AssemblyInfo.cs" />
-      <File FileName="KOALA/FoodPage.xaml" Line="15" Column="20" />
-      <File FileName="KOALA/FoodPage.xaml.cs" Line="13" Column="10" />
-      <File FileName="KOALA/TodoPage.xaml" Line="28" Column="26" />
-      <File FileName="KOALA/TodoPage.xaml.cs" Line="13" Column="10" />
+      <File FileName="KOALA/FoodPage.xaml" Line="86" Column="3" />
+      <File FileName="KOALA/TodoPage.xaml" />
+      <File FileName="KOALA/TouchPoint.cs" />
+      <File FileName="KOALA/Components/DragAndDropSample3MovingView.cs" Line="19" Column="2" />
+      <File FileName="KOALA/Components/DragAndDropSample3ReceivingView.cs" Line="25" Column="12" />
+      <File FileName="KOALA/Extensions/DragAndDropExtensions.cs" Line="24" Column="4" />
+      <File FileName="KOALA/Interfaces/IDragAndDropContainer.cs" Line="1" Column="16" />
+      <File FileName="KOALA/Interfaces/IDragAndDropHoverableView.cs" Line="9" Column="2" />
+      <File FileName="KOALA/Interfaces/IDragAndDropMovingView.cs" Line="2" Column="16" />
+      <File FileName="KOALA/Interfaces/IDragAndDropReceivingView.cs" Line="1" Column="16" />
+      <File FileName="KOALA/Helpers/NumericExtensions.cs" Line="14" Column="2" />
+      <File FileName="KOALA/Helpers/ViewExtensions.cs" Line="4" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="KOALA" expanded="True">
             <Node name="KOALA" expanded="True">
-              <Node name="App.xaml" expanded="True" />
-              <Node name="FoodPage.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Components" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="ViewExtensions.cs" selected="True" />
+              </Node>
+              <Node name="Interfaces" expanded="True" />
               <Node name="PlayPage.xaml" expanded="True" />
-              <Node name="TodoPage.xaml" expanded="True" />
             </Node>
             <Node name="KOALA.Android" expanded="True" />
-            <Node name="KOALA.iOS" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True" />
-            </Node>
           </Node>
         </State>
       </Pad>

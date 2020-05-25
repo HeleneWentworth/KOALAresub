@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             
+              xmlns:components="clr-namespace:KOALA.Components;assembly=KOALA"
              x:Class="KOALA.FoodPage">
     <ContentPage.Content>
         <StackLayout VerticalOptions="CenterAndExpand">
            
 
-            <Label Text="Koala"
+             <Label Text="Eat "
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"
                    TextColor="#333333"
@@ -14,15 +16,74 @@
                    FontSize="30"
                    />
 
-             <Label Text="Eat with me "
-                   HorizontalOptions="Center"
-                   VerticalOptions="CenterAndExpand"
-                   TextColor="#333333"
-                   FontAttributes="Bold"
-                   FontSize="22"/>
-                
+       
+         <components:DragAndDropSample3ReceivingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.1,.2,.3"
+                BackgroundColor="Green"
+                x:Name="droppable"
+  
+                /> 
 
-     
+
+
+        <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="koala1"/>
+
+         <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="Pink">
+            <Label Text="Tickle me" TextColor="Black"
+                    FontAttributes="Bold"/>
+        </components:DragAndDropSample3MovingView>
+
+         <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="LightBlue">
+            <Label Text="Play Ball with me" TextColor="Black"
+                    FontAttributes="Bold"/>
+        </components:DragAndDropSample3MovingView>
+
+        
+         <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#DC143C">
+            <Label Text="Read me a book" TextColor="Black"
+                    FontAttributes="Bold"/>
+        </components:DragAndDropSample3MovingView>
+
+        
+
+
+          
+        <StackLayout Orientation="Horizontal">
+        <ImageButton 
+                   HorizontalOptions="CenterAndExpand"
+                     Source="water_button1"
+                     WidthRequest="75"
+                     HeightRequest="75"
+                     CornerRadius="10"
+                     BackgroundColor="White"
+             Margin="5, 10, 10, 40"
+                     
+                     ></ImageButton>
+
+         <ImageButton 
+                   HorizontalOptions="CenterAndExpand"
+                     Source="water_button2"
+                     WidthRequest="75"
+                     HeightRequest="75"
+                     CornerRadius="10"
+                     BackgroundColor="White"
+             Margin="5, 10, 10, 40"
+                     
+                    ></ImageButton>
+
+            </StackLayout>
+
+  
             
 
        
@@ -35,3 +96,11 @@
   
     </ContentPage.Content>
 </ContentPage>
+
+
+          
+
+
+
+        
+       
