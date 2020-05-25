@@ -41,4 +41,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Helene Wentworth** - *Front End and Code Behind* - [HeleneWentworth](https://github.com/HeleneWentworth/GrowMeClass
+* **Helene Wentworth** - *Front End and Code Behind* - [HeleneWentworth](https://github.com/HeleneWentworth/KOALAresub)
