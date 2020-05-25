@@ -17,20 +17,16 @@ namespace KOALA {
     public partial class FoodPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::KOALA.Components.DragAndDropSample3ReceivingView droppable;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Image plantImage;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Image koalaImage;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::KOALA.Components.DragAndDropSample3ReceivingView droppable;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(FoodPage));
-            droppable = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::KOALA.Components.DragAndDropSample3ReceivingView>(this, "droppable");
-            plantImage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "plantImage");
             koalaImage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "koalaImage");
+            droppable = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::KOALA.Components.DragAndDropSample3ReceivingView>(this, "droppable");
         }
     }
 }

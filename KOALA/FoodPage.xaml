@@ -6,34 +6,40 @@
              x:Class="KOALA.FoodPage">
     <ContentPage.Content>
         <StackLayout VerticalOptions="CenterAndExpand">
-           
-
-             <Label Text="Eat "
+             <Label Text="Feed Me Please "
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"
                    TextColor="#333333"
                    FontAttributes="Bold"
                    FontSize="30"
+                     Margin="5, -5, 15, 15"
                    />
-
-       
-         <components:DragAndDropSample3ReceivingView
+              <Image x:Name="koalaImage" VerticalOptions="CenterAndExpand" Source="koala1"
+                      Margin="5, 5, 5, 5"/>
+           <components:DragAndDropSample3ReceivingView
                 AbsoluteLayout.LayoutFlags="All"
                 AbsoluteLayout.LayoutBounds=".1,.1,.2,.3"
                 BackgroundColor="Green"
                 x:Name="droppable"
-  
+                Margin="5, 5, 5, 5"
                 /> 
 
-
-
-        <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="koala1"/>
-
+            
+            <Label Text="Drag the bottom food choices to the top green bar "
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"
+                   TextColor="#333333"
+                   FontAttributes="Bold"
+                   FontSize="18"
+                   Margin="5, 5, 5, 5"
+                   />
+        
          <components:DragAndDropSample3MovingView
                 AbsoluteLayout.LayoutFlags="All"
                 AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
                 BackgroundColor="Pink">
-            <Label Text="Tickle me" TextColor="Black"
+            <Label Text="Eucalyptus tree leaves 200g" TextColor="Black"
+                   HorizontalOptions="Center"
                     FontAttributes="Bold"/>
         </components:DragAndDropSample3MovingView>
 
@@ -41,7 +47,8 @@
                 AbsoluteLayout.LayoutFlags="All"
                 AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
                 BackgroundColor="LightBlue">
-            <Label Text="Play Ball with me" TextColor="Black"
+            <Label Text="Eucalyptus tree leaves 500g" TextColor="Black"
+                   HorizontalOptions="Center"
                     FontAttributes="Bold"/>
         </components:DragAndDropSample3MovingView>
 
@@ -50,50 +57,27 @@
                 AbsoluteLayout.LayoutFlags="All"
                 AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
                 BackgroundColor="#DC143C">
-            <Label Text="Read me a book" TextColor="Black"
+            <Label Text="Eucalyptus tree leaves 700g" TextColor="Black"
+                   HorizontalOptions="Center"
                     FontAttributes="Bold"/>
         </components:DragAndDropSample3MovingView>
 
-        
-
-
-          
-        <StackLayout Orientation="Horizontal">
-        <ImageButton 
-                   HorizontalOptions="CenterAndExpand"
-                     Source="water_button1"
-                     WidthRequest="75"
-                     HeightRequest="75"
-                     CornerRadius="10"
-                     BackgroundColor="White"
-             Margin="5, 10, 10, 40"
-                     
-                     ></ImageButton>
-
-         <ImageButton 
-                   HorizontalOptions="CenterAndExpand"
-                     Source="water_button2"
-                     WidthRequest="75"
-                     HeightRequest="75"
-                     CornerRadius="10"
-                     BackgroundColor="White"
-             Margin="5, 10, 10, 40"
-                     
-                    ></ImageButton>
-
-            </StackLayout>
-
-  
-            
-
        
-        <Image x:Name="koalaImage" VerticalOptions="CenterAndExpand" Source="koala1"/>
-
-        
+       <ImageButton 
+                   HorizontalOptions="CenterAndExpand"
+          
+                     Source="koala1"
+                     WidthRequest="70"
+                     HeightRequest="70"
+                     CornerRadius="10"
+                     BackgroundColor="White"
+             Margin="5, 10, 10, 40"
+           
+                     
+                     Clicked="HomeButtonClicked"></ImageButton>
 
 
              </StackLayout>
-  
     </ContentPage.Content>
 </ContentPage>
 

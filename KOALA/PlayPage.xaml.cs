@@ -26,6 +26,10 @@ namespace KOALA
         {
             InitializeComponent();
         }
+        async void HomeButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new MainPage());
+        }
 
         void OnTouchEffectAction(object sender, TouchActionEventArgs args)
         {
@@ -90,5 +94,7 @@ namespace KOALA
             return new SKPoint((float)(canvasView.CanvasSize.Width * pt.X / canvasView.Width),
                                (float)(canvasView.CanvasSize.Height * pt.Y / canvasView.Height));
         }
+       
     }
+    
 }

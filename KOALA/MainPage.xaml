@@ -25,15 +25,22 @@
         </StackLayout>
         <Image x:Name="koalaImage" VerticalOptions="CenterAndExpand" Source="koala1"/>
         <StackLayout>
+
+
+
+                 <StackLayout Orientation="Horizontal">
+
+
+
          <ImageButton 
-                   HorizontalOptions="StartAndExpand"
+                   HorizontalOptions="CenterAndExpand"
           
                      Source="koala1"
                      WidthRequest="70"
                      HeightRequest="70"
                      CornerRadius="10"
                      BackgroundColor="White"
-             Margin="10, 10, 0, 0"
+             Margin="5, 10, 10, 40"
            
                      
                      Clicked="PlayButtonClicked"></ImageButton>
@@ -46,20 +53,20 @@
                      HeightRequest="70"
                      CornerRadius="10"
                      BackgroundColor="White"
-                Margin="10, -80, 0, 0"
+                 Margin="5, 10, 10, 40"
             
                      
                      Clicked="FoodButtonClicked"></ImageButton>
 
          <ImageButton 
-                   HorizontalOptions="EndAndExpand"
+                   HorizontalOptions="CenterAndExpand"
                
                      Source="koala1"
                      WidthRequest="70"
                      HeightRequest="70"
                      CornerRadius="10"
                      BackgroundColor="White"
-                Margin="10, -10, 0, 0"
+             Margin="5, 10, 10, 40"
           
                      
                      Clicked="TodoButtonClicked"></ImageButton>
@@ -67,7 +74,7 @@
 
             </StackLayout>
         
-       
+       </StackLayout>
     </StackLayout>
 
 

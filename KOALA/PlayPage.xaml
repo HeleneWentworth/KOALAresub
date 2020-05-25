@@ -4,13 +4,50 @@
              xmlns:local="clr-namespace:TouchTracking"
              xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
              xmlns:y="clr-namespace:KOALA"
-             
-             x:Class="KOALA.PlayPage">
+             x:Class="KOALA.PlayPage"
+              BackgroundColor="#55e0dc">
 
+    <StackLayout>
+            <Label Text="Draw Here With Me"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"
+                   TextColor="#333333"
+                   FontAttributes="Bold"
+                   FontSize="30"
+                   x:Name="draw"/>
 
-            
+        <Label Text="You can take your mouse and draw on the blank screen "
+                   HorizontalOptions="Center"
+                   VerticalOptions="StartAndExpand"
+                   TextColor="#333333"
+                   FontSize="16"
+                   x:Name="explain"
+               Margin="5, 5, 5, 5"
+               Padding="5, 5, 5, 5"/>
 
-    <Grid BackgroundColor="White">
+        <Label Text="Unfortunately the drawing functionality doesn't work but all the code is there and I have no errors in those files"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"
+                   TextColor="#333333"
+                   FontSize="14"
+                   x:Name="error"
+               Margin="25, 25, 25, 25"
+               Padding="5, 5, 5, 5"/>
+
+          <ImageButton 
+                   HorizontalOptions="CenterAndExpand"
+          
+                     Source="koala1"
+                     WidthRequest="70"
+                     HeightRequest="70"
+                     CornerRadius="10"
+                     BackgroundColor="White"
+             Margin="5, 10, 10, 40"
+           
+                     
+                     Clicked="HomeButtonClicked"></ImageButton>
+
+    <Grid BackgroundColor="#55e0dc">
         <skia:SKCanvasView x:Name="canvasView"
                            PaintSurface="OnCanvasViewPaintSurface" />
         <Grid.Effects>
@@ -20,5 +57,5 @@
        
 
     </Grid>
-    
+     </StackLayout>  
 </ContentPage>

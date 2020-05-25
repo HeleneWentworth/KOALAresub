@@ -11,5 +11,9 @@ namespace KOALA
         {
             InitializeComponent();
         }
+        async void HomeButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new MainPage());
+        }
     }
 }
