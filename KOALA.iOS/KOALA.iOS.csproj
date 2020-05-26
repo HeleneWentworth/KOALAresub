@@ -117,6 +117,22 @@
     <ImageAsset Include="Assets.xcassets\koala1.imageset\koala1-1.png" />
     <ImageAsset Include="Assets.xcassets\koala1.imageset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\koala1.imageset\koala.png" />
+    <ImageAsset Include="Assets.xcassets\play.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\play.imageset\play.png" />
+    <ImageAsset Include="Assets.xcassets\play.imageset\play-1.png" />
+    <ImageAsset Include="Assets.xcassets\play.imageset\play-2.png" />
+    <ImageAsset Include="Assets.xcassets\food.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\food.imageset\food.png" />
+    <ImageAsset Include="Assets.xcassets\food.imageset\food-1.png" />
+    <ImageAsset Include="Assets.xcassets\food.imageset\food-2.png" />
+    <ImageAsset Include="Assets.xcassets\todo.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\todo.imageset\todo.png" />
+    <ImageAsset Include="Assets.xcassets\todo.imageset\todo-1.png" />
+    <ImageAsset Include="Assets.xcassets\todo.imageset\todo-2.png" />
+    <ImageAsset Include="Assets.xcassets\home.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\home.imageset\home.png" />
+    <ImageAsset Include="Assets.xcassets\home.imageset\home-1.png" />
+    <ImageAsset Include="Assets.xcassets\home.imageset\home-2.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -141,5 +157,9 @@
     <Folder Include="Assets.xcassets\Imagekgtiwegt]e-2.imageset\" />
     <Folder Include="Assets.xcassets\koala1.imageset\" />
     <Folder Include="Assets.xcassets\koala1.imageset\" />
+    <Folder Include="Assets.xcassets\play.imageset\" />
+    <Folder Include="Assets.xcassets\food.imageset\" />
+    <Folder Include="Assets.xcassets\todo.imageset\" />
+    <Folder Include="Assets.xcassets\home.imageset\" />
   </ItemGroup>
 </Project>

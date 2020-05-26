@@ -32,19 +32,38 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./koala1.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./koala1.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./koala1.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./koala1.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./koala1.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./koala1.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./koala1.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./koala1.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "koala1" has 8 unassigned children.</string>
+			<string>The image set "play" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./home.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "home" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
@@ -64,6 +83,139 @@
 			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The image set "koala1" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./todo.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "todo" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./food.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "food" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./todo.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./todo.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "todo" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./koala1.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./koala1.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./koala1.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./koala1.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./koala1.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./koala1.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./koala1.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./koala1.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "koala1" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./play.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./play.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "play" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./food.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./food.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "food" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./home.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/KOALA/KOALA.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "home" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
