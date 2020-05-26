@@ -24,13 +24,13 @@ git clone https://github.com/HeleneWentworth/KOALAresub
 Use `Open Workspace` in Visual Studio.
 
 3. Install the following nuget packages:
-1.1.SkiaSharp.
-1.2.SkiaSharp.Views
-1.3.SkiaSharp.Views.Forms (Version 1.68.1) Not the latest version.
-1.4.SQLite-net-pcl.
-1.5.TouchTracking.
-1.6.TouchTracking.Forms
-1.7.Xamarin.Forms.InputKit
+1. SkiaSharp.
+2. SkiaSharp.Views
+3. SkiaSharp.Views.Forms (Version 1.68.1) Not the latest version.
+4. SQLite-net-pcl.
+5. TouchTracking.
+6. TouchTracking.Forms
+7. Xamarin.Forms.InputKit
 
 
 ## Built With
