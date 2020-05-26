@@ -6,6 +6,7 @@ using TouchTracking;
 using SkiaSharp;
 using SkiaSharp.Views.Forms;
 
+//Play page code behind
 namespace KOALA
 {
     public partial class PlayPage : ContentPage

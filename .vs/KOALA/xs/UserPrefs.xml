@@ -1,23 +1,23 @@
-﻿<Properties StartupConfiguration="{E8181672-EAD6-4A9D-A694-FD534E0F5AFD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="KOALA/Views/TodoItemPage.xaml">
+﻿<Properties StartupConfiguration="{80770735-EBCF-4F1B-97E7-AFA3BEF887E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KOALA/PlayPage.xaml.cs">
     <Files>
-      <File FileName="KOALA/FoodPage.xaml.cs" Line="17" Column="10" IsPinned="True" />
-      <File FileName="KOALA/MainPage.xaml" Line="26" Column="1" />
+      <File FileName="KOALA/FoodPage.xaml.cs" Line="5" Column="8" IsPinned="True" />
+      <File FileName="KOALA/MainPage.xaml" />
       <File FileName="KOALA/MainPage.xaml.cs" />
       <File FileName="KOALA.iOS/Properties/AssemblyInfo.cs" />
       <File FileName="KOALA/App.xaml.cs" />
       <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" />
       <File FileName="KOALA/AspectRatioLayout.cs" />
       <File FileName="KOALA/ISpinPaintDependencyService.cs" />
-      <File FileName="KOALA/PlayPage.xaml" Line="40" Column="34" />
-      <File FileName="KOALA/PlayPage.xaml.cs" />
+      <File FileName="KOALA/PlayPage.xaml" />
+      <File FileName="KOALA/PlayPage.xaml.cs" Line="9" Column="7" />
       <File FileName="KOALA/TouchActionEventArgs.cs" />
       <File FileName="KOALA/TouchActionType.cs" />
       <File FileName="KOALA/TouchEffect.cs" />
       <File FileName="KOALA/KOALA.csproj" />
       <File FileName="KOALA/TouchActionEventHandler.cs" />
       <File FileName="KOALA/AssemblyInfo.cs" />
-      <File FileName="KOALA/FoodPage.xaml" Line="69" Column="34" />
+      <File FileName="KOALA/FoodPage.xaml" />
       <File FileName="KOALA/TouchPoint.cs" />
       <File FileName="KOALA/Components/DragAndDropSample3MovingView.cs" />
       <File FileName="KOALA/Components/DragAndDropSample3ReceivingView.cs" />
@@ -30,7 +30,8 @@
       <File FileName="KOALA/Helpers/ViewExtensions.cs" />
       <File FileName="KOALA/Data/TodoItemDatabase.cs" />
       <File FileName="KOALA/Views/TodoItemPage.xaml.cs" />
-      <File FileName="KOALA/Views/TodoItemPage.xaml" Line="26" Column="44" />
+      <File FileName="KOALA/Views/TodoItemPage.xaml" />
+      <File FileName="KOALA/Views/TodoItemPageCS.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -38,7 +39,12 @@
           <Node name="KOALA" expanded="True">
             <Node name="KOALA" expanded="True">
               <Node name="Views" expanded="True">
-                <Node name="TodoItemPage.xaml" selected="True" />
+                <Node name="TodoItemPage.xaml" expanded="True" />
+              </Node>
+              <Node name="FoodPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="PlayPage.xaml" expanded="True">
+                <Node name="PlayPage.xaml.cs" selected="True" />
               </Node>
             </Node>
             <Node name="KOALA.Android" expanded="True">

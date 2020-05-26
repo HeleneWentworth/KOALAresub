@@ -27,15 +27,12 @@
 
          <ImageButton 
                    HorizontalOptions="CenterAndExpand"
-               
                      Source="home"
                      WidthRequest="70"
                      HeightRequest="70"
                      CornerRadius="10"
                      BackgroundColor="LightSeaGreen"
-             Margin="5, 10, 10, 40"
-          
-                     
+                     Margin="5, 10, 10, 40"
                      Clicked="HomeButtonClicked"></ImageButton>
 
     </StackLayout>
